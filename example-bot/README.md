@@ -1,4 +1,4 @@
-# PHP Telegram Bot Example
+# A PHP Telegram Bot Example
 An A-Z example of Telegram bot using the [PHP Telegram Bot][1] library.
 
 **Important!** Before getting started with this project, make sure you have read the official [readme][2] to understand how the PHP Telegram Bot library works and what is required to run a Telegram bot.
